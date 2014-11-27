@@ -1,5 +1,7 @@
 Ported to Meteor from [CryptoJS](https://code.google.com/p/crypto-js/). 
 
+[![Build Status](https://travis-ci.org/p-j/meteor-crypto-evpkdf.svg)](https://travis-ci.org/p-j/meteor-crypto-evpkdf)
+
 Provide a key derivation function that is meant to conform with [EVP_BytesToKey](http://www.openssl.org/docs/crypto/EVP_BytesToKey.html).
 
 Related package:
