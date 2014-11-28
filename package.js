@@ -1,6 +1,6 @@
 Package.describe({
 	summary: 'EvpKDF Package for CryptoJS, standard secure algorithms',
-	version: '0.1.0',
+	version: '0.1.1',
 	git: 'https://github.com/p-j/meteor-crypto-EvpKDF.git'
 });
 
